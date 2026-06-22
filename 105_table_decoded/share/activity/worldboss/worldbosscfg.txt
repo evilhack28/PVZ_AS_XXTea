@@ -1,0 +1,4 @@
+活动BOSS关卡	小ID	战斗场景ID	世界boss活动id	活动开始日期	活动开始日期	开始显示时间	活动完全结束时间	活动时间	参与活动等级条件	活动次数	击杀奖励	邮件奖励内容	钻石祈祷价格	金币祈祷单价	攻击间隔(秒)	过程概率产出道具
+INT	INT	INT	STRING	STRING	STRING	STRING	STRING	INT	INT	INT	STRING	STRING	INT	INT	INT	STRING
+advId	subadvId	monsterSceneIds	name	opendate	closedate	showstartdate	showenddate	attime	level	count	killerrewardexp	mailcontext	goldbless	silverbless	attackcd	drop
+8001	8001	10001	世界BOSS XXXX	2015/5/26	2015/5/31	2015/5/26	2015/5/31	2000-2025	10	0	"1,91,150,1|1,90,680000,1|1,45061,3,1"	恭喜你击杀了歌王僵尸，特此送上神秘大礼！	200	100000	120	"1,45277,1"

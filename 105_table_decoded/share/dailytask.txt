@@ -1,0 +1,26 @@
+任务ID	任务名	任务描述	任务图标背景层路径	任务图标图片路径	填0	任务图图标大小缩放	获得物品的小图标路径	0为PNG路径图，1为PLIST	小图标缩放	任务条件，问服务器	VIP等级多少开启	每条任务的标题面板	前往的界面（不读）	前置任务ID	开启条件类型(1-等级触发 2-植物缘分)	开启条件(配合show使用)	子完成条件	完成条件所需数值	经验值奖励	服务器给予奖励类型（和客户端一致）	奖励ID	奖励数量	是否显示	周几显示	是否显示前往按钮
+INT	STRING	STRING	STRING	STRING	INT	FLOAT	STRING	INT	FLOAT	INT	INT	STRING	STRING	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	STRING	INT
+id	taskname	taskinfo	framepic	taskpic	taskpictype	taskpicscale	samllicon	smallicontype	smalliconscale	condition_type	vip	itembg	toui	frontid	open_condition_type	open_arg	condition_type1	condition_args	award_exp	award_type	award_args	award_num	show	showweek	showgoto
+1001	天天向上	挑战3次排位赛	cardbakcground/card_icon_purple.png	test/zjm_jingji1.png	0	1	item/91.png	0	0.7	9	0	TaskItembg1.png	竞技场界面				0	3	120	4	91	10	1		1
+1002	坚持不懈	获得挑战活动中任意2场活动的胜利	cardbakcground/card_icon_purple.png	test/zjm_tiaozhan1.png	0	0.9	item/91.png	0	0.7	11	0	TaskItembg1.png	金盏花界面				0	2	120	4	91	10	1		1
+1003	无尽的挑战	每天挑战1次无尽活动	cardbakcground/card_icon_gray.png	test/wujinn_jiandan.png	0	0.5	item/91.png	0	0.7	23	0	TaskItembg1.png	无尽界面				0	1	150	4	91	10	1		1
+1004	勇气见证	 扫荡两次远征	cardbakcground/card_icon_gray.png	test/wujinn_jiandan.png	0	0.5	item/91.png	0	0.7	59	0	TaskItembg1.png	远征界面		1	15	0	2	150	4	91	50	1		1
+1008	毫不浪费	消耗360点体力	cardbakcground/card_icon_purple.png	test/tili.png	0	1.5	item/90.png	0	0.7	13	0	TaskItembg1.png	当前通关最高关卡				0	360	120	4	91	30	1		1
+1011	洗刷刷	完成10次任意关卡	test/common_bg_gold.png	test/g_0005_.png	0	0.9	item/90.png	0	0.7	12	0	TaskItembg1.png	当前通关最高关卡				1	10	60	5	90	2000	1		1
+1013	黑手光环	每天进行任意1次抽卡	cardbakcground/card_icon_purple.png	test/zjm_chouka1.png	0	0.8	item/94.png	0	0.7	14	0	TaskItembg1.png	抽卡界面				0	1	60	18	94	5000	1		1
+1301	戴夫杯	每天在戴夫杯中获得1次胜利	cardbakcground/card_icon_purple.png	test/zjm_jingji1.png	0	1	item/91.png	0	0.7	24	0	TaskItembg1.png	当前通关最高关卡				0	1	150	4	91	10	1		1
+1015	扫荡卡（VIP）	VIP玩家每天可免费领取扫荡卡	test/common_bg_gold.png	item/6000.png	0	0.9	gui/sweeping_panel/sweeping_PList.Dir/sweeping_card_icon.png	0	0.6	20	1	TaskItembg1.png	充值界面				0	1	0	1	6000	20	1		1
+1016	扫荡卡（VIP）	VIP玩家每天可免费领取扫荡卡	test/common_bg_gold.png	item/6000.png	0	0.9	gui/sweeping_panel/sweeping_PList.Dir/sweeping_card_icon.png	0	0.6	20	2	TaskItembg1.png	充值界面				0	1	0	1	6000	30	1		1
+1017	扫荡卡（VIP）	VIP玩家每天可免费领取扫荡卡	test/common_bg_gold.png	item/6000.png	0	0.9	gui/sweeping_panel/sweeping_PList.Dir/sweeping_card_icon.png	0	0.6	20	3	TaskItembg1.png	充值界面				0	1	0	1	6000	40	1		1
+1018	扫荡卡（VIP）	VIP玩家每天可免费领取扫荡卡	test/common_bg_gold.png	item/6000.png	0	0.9	gui/sweeping_panel/sweeping_PList.Dir/sweeping_card_icon.png	0	0.6	20	4	TaskItembg1.png	充值界面				0	1	0	1	6000	50	1		1
+1019	扫荡卡（VIP）	VIP玩家每天可免费领取扫荡卡	test/common_bg_gold.png	item/6000.png	0	0.9	gui/sweeping_panel/sweeping_PList.Dir/sweeping_card_icon.png	0	0.6	20	5	TaskItembg1.png	充值界面				0	1	0	1	6000	60	1		1
+1020	扫荡卡（VIP）	VIP玩家每天可免费领取扫荡卡	test/common_bg_gold.png	item/6000.png	0	0.9	gui/sweeping_panel/sweeping_PList.Dir/sweeping_card_icon.png	0	0.6	20	6	TaskItembg1.png	充值界面				0	1	0	1	6000	70	1		1
+1021	扫荡卡（VIP）	VIP玩家每天可免费领取扫荡卡	test/common_bg_gold.png	item/6000.png	0	0.9	gui/sweeping_panel/sweeping_PList.Dir/sweeping_card_icon.png	0	0.6	20	7	TaskItembg1.png	充值界面				0	1	0	1	6000	80	1		1
+1022	扫荡卡（VIP）	VIP玩家每天可免费领取扫荡卡	test/common_bg_gold.png	item/6000.png	0	0.9	gui/sweeping_panel/sweeping_PList.Dir/sweeping_card_icon.png	0	0.6	20	8	TaskItembg1.png	充值界面				0	1	0	1	6000	90	1		1
+1023	扫荡卡（VIP）	VIP玩家每天可免费领取扫荡卡	test/common_bg_gold.png	item/6000.png	0	0.9	gui/sweeping_panel/sweeping_PList.Dir/sweeping_card_icon.png	0	0.6	20	9	TaskItembg1.png	充值界面				0	1	0	1	6000	100	1		1
+1025	扫荡卡（VIP）	VIP玩家每天可免费领取扫荡卡	test/common_bg_gold.png	item/6000.png	0	0.9	gui/sweeping_panel/sweeping_PList.Dir/sweeping_card_icon.png	0	0.6	20	10	TaskItembg1.png	充值界面				0	1	0	1	6000	120	1		1
+1101	植物升级	使用阳光为任意植物提升1次等级	cardbakcground/card_icon_purple.png	test/tili.png	0	1	gui/sweeping_panel/sweeping_PList.Dir/sweeping_card_icon.png	0	0.7	25	0	TaskItembg1.png	植物界面				0	1	60	18	94	2000	1		1
+2111	送扫荡卡	每周1送扫荡卡	test/common_bg_gold.png	item/6000.png	0	0.8	item/94.png	0	0.6	36	0	TaskItembg1.png	充值界面				0	1	0	1	6000	20	1	1	1
+1401	使用造币机	使用1次造币机	cardbakcground/card_icon_purple.png	item/200.png	0	0.9	item/200.png	0	0.6	47	0	TaskItembg1.png	植物界面				0	1	10	1	200	1	1		1
+1103	强化大师	强化装备5次	cardbakcground/card_icon_purple.png	item/6000.png	0	0.9	item/91.png	0	0.6	52	0	TaskItembg2.png	植物界面				0	5	60	4	91	10	1		1
+1105	首抽返利	每日首次钻石单抽，赠送100觉醒药剂	cardbakcground/card_icon_purple.png	test/zjm_chouka1.png	0	0.9	item/60202.png	0	0.6	53	0	TaskItembg1.png	抽卡界面				0	1	0	1	60204	100	1		1

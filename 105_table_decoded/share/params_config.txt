@@ -1,0 +1,26 @@
+参数名称	参数值	描述
+STRING	STRING	STRING
+paramKey	paramVal	description
+LUCKY_PLANT_RECHARGE_GOLD	60	幸运植物限时活动充值所需的元宝数
+LUCKY_PLANT_LAST_TIME	120	幸运植物限时活动持续时间(分钟)
+GOLD_LOTTER_ONCE_DISCOUNT	168	单抽打折活动消耗
+GOLD_LOTTER_TEN_DISCOUNT	1400	10连抽打折活动消耗
+gold_lotter_1	"1,60204,20,0"	"钻石单抽(含免费),额外送觉醒药剂"
+gold_lotter_10	"1,60204,500,0"	"钻石十连抽,额外送觉醒药剂"
+item_lotter_1	"1,94,1000,0"	"道具单抽(含免费),额外送阳光"
+item_lotter_10	"1,94,10000,0"	"道具十连抽,额外送阳光"
+gold_lotter_1_first	"1,60204,500,0"	钻石首抽，额外送觉醒药剂
+gold_lotter_10st	"1,60204,500,0"	"钻石第10抽奖励,大幅额外送觉醒药剂"
+courage_item_id	108	天赋抽取-勇气点
+essence_item_id	109	天赋抽取-天赋精华
+lottery_talent_essence	1200	精华抽取天赋每次消耗精华数
+lottery_talent_courage	1500	勇气点抽取天赋每次消耗数量
+refresh_expedition	100	充值远征关卡
+vacation	20200101;20200124;20200125;20200126;20200127;20200128;20200129;20200130;20200404;20200405;20200406;20200501;20200502;20200503;20200504;20200505;20200625;20200626;20200627;20201001;20201002;20201003;20201004;20201005;20201006;20201007;20201008	实名制验证假期判定
+blackList	20200119;20200201;20200426;20200509;20200628;20200927;20201010	实名制认证调休日黑名单
+MAX_RECHARGE_16	50	
+MONTH_RECHARGE_16	200	
+MAX_RECHARGE_18	100	
+MONTH_RECHARGE_18	400	
+VACATION_TIME_SECONDS	10800	
+DEFAULT_TIME_SECONDS	5400	

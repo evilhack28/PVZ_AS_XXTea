@@ -1,0 +1,8 @@
+废	废	废	废	废	废	废	废	废	废	废
+INT	STRING	STRING	STRING	STRING	INT	INT	STRING	INT	INT	INT
+id	name	description	contains	pic	oldprice	nowprice	discountpic	currencytype	level	count
+1000	礼包1	开启可获得绿色植物卡牌一张	"0,1,1,1"	rechargeimage/card.png	1500	1200	rechargeimage/discount.png	4	0	1
+1001	礼包2	开启可获得紫色植物卡牌一张	"0,1,1,1|0,2,1,1"	rechargeimage/card.png	2000	1600	rechargeimage/discount.png	5	1	2
+1002	礼包3	开启可获得绿色植物卡牌一张	"0,1,1,1|0,2,1,1|0,3,1,1"	rechargeimage/card.png	800	640	rechargeimage/discount.png	4	2	3
+1003	礼包4	开启可获得紫色植物卡牌一张	"0,2,1,1|0,3,1,1"	rechargeimage/card.png	1000	800	rechargeimage/discount.png	5	3	4
+1004	礼包5	开启可获得绿色植物卡牌一张	"0,3,1,1"	rechargeimage/card.png	80	64	rechargeimage/discount.png	4	4	0

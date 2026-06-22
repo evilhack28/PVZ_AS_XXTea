@@ -1,0 +1,7 @@
+唯一ID	提示内容	图片地址
+INT	STRING	STRING
+id	tipText	pic
+1	一大波僵尸正在靠近！	ui/battle_db_0001.png
+2	一个异常强大的僵尸正在靠近！	ui/battle_db_0002.png
+3	最后一波僵尸正在靠近！	ui/battle_db_0003.png
+4	警告！即将有强大的僵尸出现！	ui/battle_db_0004.png

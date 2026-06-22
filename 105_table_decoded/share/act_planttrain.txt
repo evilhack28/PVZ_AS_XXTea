@@ -1,0 +1,7 @@
+唯一	活动标题	活动开始时间	活动结束时间	参与植物parentid	满足条件类型1	满足条件参数1	奖励类型1	奖励id1	奖励数量1	奖励类型2	奖励id2	奖励数量2	奖励类型3	奖励id3	奖励数量3	可领奖总数	目标描述	客户端时间描述
+INT	STRING	STRING	STRING	STRING	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	STRING	STRING
+id	title	starttime	endtime	parentcardid	conditionLevel	conditionStar	awardType1	itemId1	num1	awardType2	itemId2	num2	awardType3	itemId3	num3	totalAwardCount	target	timeDec
+1	寒冰呼唤	2014/9/25 11:00	72	145	20	-1	1	45145	5	1	90	30000	1	94	5000	-1	活动期间水滴射手、寒冰射手或冰箭射手，任一植物等级达到20级	活动时间:2014年9月17日--2014年9月18日
+2	辣椒来袭	72	168	61	-1	4	1	45061	5	1	90	50000	1	94	10000	2000	活动期间小辣椒、火爆辣椒或恶魔辣椒，任一植物星级达到4星	活动时间:2014年9月19日--2014年9月19日
+3	幸运之旅	168	336	229	40	-1	1	45229	10	1	90	100000	1	94	20000	100	活动期间三叶草、四叶草或风扇草，任一植物等级达到40级	活动时间:2014年9月17日--2014年9月20日
+4	炸弹艺术	336	504	133	-1	10	1	45133	10	1	90	150000	1	94	50000	50	活动期间樱桃炸弹、蟠桃炸弹或核桃炸弹，任一植物星级达到10星	活动时间:2014年9月17日--2014年9月21日

@@ -1,0 +1,6 @@
+废	废	废	废	废	废
+INT	STRING	STRING	INT	INT	INT
+cardid	icon	desc	grant_cardid	lottery_1_cardid	lottery_2_cardid
+13	plantscard/zhusun.png	攻守兼备，能打能抗让他成为玩家的最爱。	133	145	157
+1	plantscard/shuangchongsheshou.png	"后排射手,可以对远距离的敌人造成可观的伤害。"	133	145	157
+121	plantscard/jianguo.png	"前排坦克,拥有坚固的外壳所带来的超强防御。"	133	145	157

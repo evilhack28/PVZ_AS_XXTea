@@ -1,0 +1,8 @@
+id	vip礼包消耗钻石数	类型1	物品id1	物品数量1
+INT	INT	INT	INT	INT
+id	price	type	itemId	num
+1	50	16	97	10
+2	50	16	50001	120
+3	50	16	6000	50
+4	50	16	94	20000
+5	50	16	90	20000

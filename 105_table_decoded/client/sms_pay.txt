@@ -1,0 +1,5 @@
+产品序号	产品说明	CM计费代码	MM计费代码	联通计费代码	电信计费代码
+INT	STRING	STRING	STRING	STRING	STRING
+id	desc	cm_code	mm_code	unicom_code	telecom_code
+1	万能能量豆	001	001	001	001
+2	超级小推车	002	002	002	002

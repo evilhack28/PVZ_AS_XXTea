@@ -1,0 +1,4 @@
+唯一ID	调用怪物表ID	释放技能间隔回合	怪物消失回合	出现关卡ID	出现波数ID	僵尸出现行数
+INT	INT	INT	INT	INT	INT	INT
+id	monster_id	skill_num	clear_num	sence_id	wave_id	line
+1	2020936	20	15	5201	105201	1

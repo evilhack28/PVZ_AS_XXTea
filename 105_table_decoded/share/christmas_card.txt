@@ -1,0 +1,4 @@
+唯一	累计充值	卡牌ID	植物名字图片	植物形态图片	植物描述	植物技能描述
+INT	INT	INT	STRING	STRING	STRING	STRING
+id	money	cardId	nameImage	plantImage	dec	skillDec
+1	6	302	XZCDVF.png	cb_group1.png	能力：远程！绝对命中！	特技：闪电溅射十字型伤害！

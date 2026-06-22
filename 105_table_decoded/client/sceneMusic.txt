@@ -1,0 +1,25 @@
+场景音效ID	场景名	战斗音乐	非战斗时音乐	战斗胜利	战斗失败	BOSS关音效
+INT	STRING	STRING	STRING	STRING	STRING	STRING
+id	scene_name	scene_battle	scene_idle	battle_win	battle_lose	scene_battle_boss
+1	美国小镇	Egypt_FinalWave_Drums_A_01.mp3	Music_Map_Loop.mp3	Tutorial_Win.mp3	Egypt_Lose.mp3	Egypt_FinalWave_Drums_A_01.mp3
+2	远古世纪	Egypt_FinalWave_Drums_A_01.mp3	Music_Map_Loop.mp3	Tutorial_Win.mp3	Egypt_Lose.mp3	Egypt_FinalWave_Drums_A_01.mp3
+3	长城	Egypt_FinalWave_Drums_A_01.mp3	Music_Map_Loop.mp3	Tutorial_Win.mp3	Egypt_Lose.mp3	Egypt_FinalWave_Drums_A_01.mp3
+4	神秘埃及	Egypt_FinalWave_Drums_A_01.mp3	Music_Map_Loop.mp3	Tutorial_Win.mp3	Egypt_Lose.mp3	Egypt_FinalWave_Drums_A_01.mp3
+5	海盗湾	Egypt_FinalWave_Drums_A_01.mp3	Music_Map_Loop.mp3	Tutorial_Win.mp3	Egypt_Lose.mp3	Egypt_FinalWave_Drums_A_01.mp3
+6	狂野西部	Egypt_FinalWave_Drums_A_01.mp3	Music_Map_Loop.mp3	Tutorial_Win.mp3	Egypt_Lose.mp3	Egypt_FinalWave_Drums_A_01.mp3
+7	中国功夫	Egypt_FinalWave_Drums_A_01.mp3	Music_Map_Loop.mp3	Tutorial_Win.mp3	Egypt_Lose.mp3	Egypt_FinalWave_Drums_A_01.mp3
+8	西游纪	Egypt_FinalWave_Drums_A_01.mp3	Music_Map_Loop.mp3	Tutorial_Win.mp3	Egypt_Lose.mp3	Egypt_FinalWave_Drums_A_01.mp3
+9	冰河世界	Egypt_FinalWave_Drums_A_01.mp3	Music_Map_Loop.mp3	Tutorial_Win.mp3	Egypt_Lose.mp3	Egypt_FinalWave_Drums_A_01.mp3
+10	未来世界	Egypt_FinalWave_Drums_A_01.mp3	Music_Map_Loop.mp3	Tutorial_Win.mp3	Egypt_Lose.mp3	Egypt_FinalWave_Drums_A_01.mp3
+						
+12	摇滚世界	Egypt_FinalWave_Drums_A_01.mp3	Music_Map_Loop.mp3	Tutorial_Win.mp3	Egypt_Lose.mp3	Egypt_FinalWave_Drums_A_01.mp3
+10001	模拟战	Egypt_FinalWave_Drums_A_01.mp3				
+501	金盏花	Egypt_FinalWave_Drums_A_01.mp3		Tutorial_Win.mp3	Egypt_Lose.mp3	
+2001	阳光菇	Egypt_FinalWave_Drums_A_01.mp3		Tutorial_Win.mp3	Egypt_Lose.mp3	
+3001	元素试炼	Egypt_FinalWave_Drums_A_01.mp3		Tutorial_Win.mp3	Egypt_Lose.mp3	
+4001	花园战争	Egypt_FinalWave_Drums_A_01.mp3		Tutorial_Win.mp3	Egypt_Lose.mp3	
+1001	无尽	Egypt_FinalWave_Drums_A_01.mp3		Tutorial_Win.mp3	Egypt_Lose.mp3	
+4101	极限挑战	Egypt_FinalWave_Drums_A_01.mp3		Tutorial_Win.mp3	Egypt_Lose.mp3	
+90001	远征第一章	Egypt_FinalWave_Drums_A_01.mp3	Music_Map_Loop.mp3	Tutorial_Win.mp3	Egypt_Lose.mp3	Egypt_FinalWave_Drums_A_01.mp3
+90002	远征第二章	Egypt_FinalWave_Drums_A_01.mp3	Music_Map_Loop.mp3	Tutorial_Win.mp3	Egypt_Lose.mp3	Egypt_FinalWave_Drums_A_01.mp3
+90003	远征第三章	Egypt_FinalWave_Drums_A_01.mp3	Music_Map_Loop.mp3	Tutorial_Win.mp3	Egypt_Lose.mp3	Egypt_FinalWave_Drums_A_01.mp3

@@ -1,0 +1,4 @@
+活动id	推送通知id（push.txt中的id）	活动名字
+INT	INT	STRING
+id	notifyId	activty_name
+22	5	世界(年兽)boss

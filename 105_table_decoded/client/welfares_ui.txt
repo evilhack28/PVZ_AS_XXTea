@@ -1,0 +1,6 @@
+活动ID	对应的UI名字	对应的界面布局文件	选择按钮的标题图片	选择按钮的图片	选择按钮的选中图片	选择按钮的背景图片	服务端对应的ID
+INT	STRING	STRING	STRING	STRING	STRING	STRING	INT
+id	name	UIFileName	touchItemTitle	touchItemIcon	touchItemSelect	touchItemBack	opServerType
+1	WelFaresGiftPanel	welfares_gift_panel	dfflmrsc_title.png	dfflmrsc_icon.png	challenge_wujin_shadow.png	challenge_wujin.png	11
+2	WelfaresTaskPanel	welfares_task_panel	dfflwjdr_title.png	dfflwjdr_icon.png	challenge_wujin_shadow.png	challenge_wujin.png	12
+3	DaiFuExchangePanel	daifu_exchage	df_exchange_tilte.png	df_exchage_icon.png	challenge_jinzhan_shadow.png	challenge_jinzhan.png	6

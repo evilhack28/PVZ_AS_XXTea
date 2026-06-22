@@ -1,0 +1,10 @@
+废	废	废	废	废	废	废	废	废123	废	废	废	废	废	废	废
+INT	INT	INT	INT	INT	INT	INT	INT	INT	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+id	monster_waveid	start_guideid	end_guideid	cardid	level	plant_pos	plant_reset_pos	boss_id	round1	round2	round3	round4	round5	round6	desc
+1001	801	1501	1602	360	90	7	-1	801	1|0|0|-1	0|0|1|-1	1|0|0|-1	0|0|0|-1	1|0|0|-1	0|0|0|-1	plant1|plant2|boss|guideid
+1002	802	1502	1605	292	90	7	-1	805	1|0|0|-1	0|0|1|-1	1|0|0|-1	0|0|0|-1	1|0|0|-1	0|0|0|-1	plant1|plant2|boss|guideid
+1004	804	1504	1607	256	90	7	-1	806	1|0|0|-1	0|0|1|-1	1|0|0|-1	0|0|0|-1	1|0|0|-1	0|0|0|-1	plant1|plant2|boss|guideid
+1005	805	2001	2003	252	90	7	-1	-1	1|0|0|-1	0|0|0|-1	1|0|0|-1	0|0|0|-1	1|0|0|-1	0|0|0|-1	plant1|plant2|boss|guideid
+1006	806	2011	2012	356	90	7	-1	-1	1|0|0|-1	0|0|0|-1	1|0|0|-1	0|0|0|-1	1|0|0|-1	0|0|0|-1	plant1|plant2|boss|guideid
+1007	807	2021	2022	288	90	7	-1	-1	1|0|0|-1	0|0|0|-1	1|0|0|-1	0|0|0|-1	1|0|0|-1	0|0|0|-1	plant1|plant2|boss|guideid
+1008	808	2031	2032	44	90	7	-1	-1	1|0|0|-1	0|0|0|-1	1|0|0|-1	0|0|0|-1	1|0|0|-1	0|0|0|-1	plant1|plant2|boss|guideid

@@ -1,0 +1,10 @@
+废	废	废	废	废	废	废	废	废
+INT	INT	INT	INT	INT	INT	INT	INT	INT
+id	SubAdventureId	save_point	end_guideid	wavecount	wave1	wave2	wave3	wave4
+1001	1	35	-1	4	1001	-1	-1	-1
+1002	2	37	-1	4	1002	-1	-1	-1
+1003	4	39	-1	4	1004	-1	-1	-1
+1004	7	41	-1	4	1005	-1	-1	-1
+1005	10	43	-1	4	1006	-1	-1	-1
+1006	13	45	-1	4	1007	-1	-1	-1
+1007	15	47	-1	4	1008	-1	-1	-1

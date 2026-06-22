@@ -1,0 +1,11 @@
+id	关卡要求	开启时间	结束时间	全服限数	标题icon	活动需求	奖励id1	奖励数量	奖励类型1	奖励id2	奖励数量2	奖励类型2	奖励id3	奖励数量3	奖励类型3	宝箱icon	标题icon_0	标题icon_1
+INT	INT	STRING	STRING	INT	STRING	STRING	INT	INT	INT	INT	INT	INT	INT	INT	INT	STRING	STRING	STRING
+id	subadvid	starttime	endtime	total	titleicon	passadvinfo	id1	num1	type1	id2	num2	type2	id3	num3	type3	boxIcon	titleIcon_0	titleIcon_1
+1	15	2014/9/25 11:00	72	-1	美国警长	活动期间通关美国小镇	45001	5	1	90	5000	1	94	2000	1	adventure_award_box_1.png	adventure_award_box_0_title_0.png	adventure_award_box_0_title_1.png
+2	35	2014/9/25 11:00	72	-1	我是酋长	活动期间通关原始部落	45037	5	1	90	8000	1	94	3000	1	adventure_award_box_2.png	adventure_award_box_1_title_0.png	adventure_award_box_1_title_1.png
+3	60	2014/9/25 11:00	96	500	烽火狼烟	活动期间通关长城世界	45121	5	1	90	12000	1	94	5000	1	adventure_award_box_3_8.png	adventure_award_box_2_title_0.png	adventure_award_box_2_title_1.png
+4	90	2014/9/25 11:00	120	300	盗墓留笔记	活动期间通关神秘埃及	45145	5	1	90	20000	1	94	8000	1	adventure_award_box_3_8.png	adventure_award_box_3_title_0.png	adventure_award_box_3_title_1.png
+5	120	2014/9/25 11:00	168	200	我是海贼王	活动期间通关海盗世界	45229	5	1	90	30000	1	94	12000	1	adventure_award_box_3_8.png	adventure_award_box_4_title_0.png	adventure_award_box_4_title_1.png
+6	150	2014/9/25 11:00	240	100	西部枪客	活动期间通关狂野西部	97	10	1	90	50000	1	94	20000	1	adventure_award_box_3_8.png	adventure_award_box_5_title_0.png	adventure_award_box_5_title_1.png
+7	180	2014/9/25 11:00	336	50	功夫王	活动期间通关功夫世界	98	10	1	90	80000	1	94	30000	1	adventure_award_box_3_8.png	adventure_award_box_6_title_0.png	adventure_award_box_6_title_1.png
+8	210	2014/9/25 11:00	456	10	斗战胜佛	活动期间通关西游世界	98	20	1	90	120000	1	94	50000	1	adventure_award_box_3_8.png	adventure_award_box_7_title_0.png	adventure_award_box_7_title_1.png

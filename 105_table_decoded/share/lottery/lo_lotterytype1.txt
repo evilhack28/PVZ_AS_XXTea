@@ -1,0 +1,9 @@
+2								
+INT	INT	INT	INT	INT	INT	INT	STRING	STRING
+id	chance1	chance2	chance3	chance4	chance6	chance7	name	des
+1	0	87	13	0	0	0		友情抽卡
+2	0	0	100	0	0	0		高级抽卡1，抽不到紫卡的
+3	0	0	90	10	100	0		高级抽卡2，可能紫卡，必重复
+4	0	0	90	10	50	50		高级抽卡3，可能紫卡，不一定重复
+5	0	0	0	100	0	100		高级抽卡5，必出新卡
+6	0	0	0	100	50	50		幸运抽卡

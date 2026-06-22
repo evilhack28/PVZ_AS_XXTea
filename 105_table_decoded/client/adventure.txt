@@ -1,0 +1,32 @@
+废	废	废	废	废	废	废	废	废	废	废	废	废	废	废	废	废	废	废
+INT	STRING	INT	STRING	STRING	INT	INT	STRING	STRING	STRING	STRING	INT	INT	INT	INT	INT	INT	INT	INT
+advid	advname	type	condition	schedule	starttime	endtime	backgroundpic	smallpic	bigpic	adviselevel	backgroundMusicid	fightMusicid	fightwinMusicid	fightloseMusicid		advnumCLIENT	advstartCLIENT	orderCLIENT
+1	美国小镇	0	"1,78"	-1	-1	-1	ui/meiguoxiaozhen.png	adventure/adventure_chapters_05.png	adventure/meiguoxiazhen.png	1-15级	9	29	24	23		10	1	-1
+2	原始部落	0	"2,90"	-1	-1	-1	ui/shenmiaiji.png	adventure/adventure_chapters_06.png	adventure/meiguoxiazhen.png	15-20级	7	20	22	21		20	16	-1
+3	万里长城	0	"3,90"	-1	-1	-1	ui/haidaowan.png	adventure/adventure_chapters_02.png	adventure/meiguoxiazhen.png	20-32级	11	25	27	26		25	36	-1
+4	神秘埃及	0	"4,90"	-1	-1	-1	ui/kuangyexibu.png	adventure/adventure_chapters_07.png	adventure/meiguoxiazhen.png	32-43级	18	33	34	32		30	61	-1
+5	海盗湾	0	"5,90"	-1	-1	-1	ui/gongfushijie.png	adventure/adventure_chapters_01.png	adventure/meiguoxiazhen.png	43-52级	-1	-1	-1	-1		30	91	-1
+6	狂野西部	0	"6,90"	-1	-1	-1	ui/alabo.png	adventure/adventure_chapters_07.png	adventure/meiguoxiazhen.png	52-59级	-1	-1	-1	-1		30	121	-1
+7	功夫世界	0	"7,90"	-1	-1	-1	ui/wanlichangcheng.png	adventure/adventure_chapters_08.png	adventure/meiguoxiazhen.png	59-65级	-1	-1	-1	-1		30	151	-1
+8	西游记	0	"8,90"	-1	-1	-1	ui/luomadiguo.png		adventure/meiguoxiazhen.png	65-71级	-1	-1	-1	-1		30	181	-1
+9	维京世界	0	"9,90"	-1	-1	-1	ui/xiyouji.png		adventure/meiguoxiazhen.png	71-77级	-1	-1	-1	-1		30	211	-1
+10	未来世界	0	"10,90"	-1	-1	-1	ui/weilaishijie.png		adventure/meiguoxiazhen.png	77-83级	-1	-1	-1	-1		30	241	-1
+11	黑暗时代	0	"11,90"	-1	-1	-1	ui/heianshidai.png		adventure/meiguoxiazhen.png	83-89级	-1	-1	-1	-1		30	271	-1
+12	摇滚时代	0	"12,90"	-1	-1	-1	ui/heianshidai.png		adventure/meiguoxiazhen.png	89-95级	-1	-1	-1	-1		30	301	-1
+501	金盏花	1		"1,3,5,6"	0	2359	ui/jinzhanhua.png		adventure/calendula_2.png	34-40级	9	-1	24	23		-1	-1	3
+1000	无尽	1		-1	-1	-1	ui/endless.png		adventure/meiguoxiazhen.png	44-50级	9	-1	24	23		-1	-1	1
+2001	阳光菇	1		"0,2,4,6"	0	2359	ui/jinzhanhua.png		adventure/calendula_2.png	34-40级	9	-1	24	23		-1	-1	2
+4001	大墓地	1		"0,2,4,6"	0	2359	ui/jinzhanhua.png		adventure/calendula_2.png	34-40级	9	-1	24	23		-1	-1	4
+4101	极限挑战	1		-1	-1	-1	ui/jinzhanhua.png		adventure/calendula_2.png	30-120级	9	-1	24	23		-1	-1	5
+51	美国小镇	3	"51,78"	-1	-1	-1	ui/meiguoxiaozhen.png	adventure/adventure_chapters_05.png	adventure/meiguoxiazhen.png	1-15级	9	-1	24	23		-1	-1	-1
+52	神秘埃及	3	"52,90"	-1	-1	-1	ui/shenmiaiji.png	adventure/adventure_chapters_06.png	adventure/meiguoxiazhen.png	15-20级	7	-1	22	21		-1	-1	-1
+53	海盗湾	3	"53,90"	-1	-1	-1	ui/shenmiaiji.png		adventure/meiguoxiazhen.png	20-32级	11	-1	27	26		-1	-1	-1
+54	狂野西部	3	"54,90"	-1	-1	-1	ui/shenmiaiji.png		adventure/meiguoxiazhen.png	32-43级	18	-1	34	32		-1	-1	-1
+55	功夫世界	3	"55,90"	-1	-1	-1	ui/haidaowan.png	adventure/adventure_chapters_02.png	adventure/meiguoxiazhen.png	43-52级	-1	-1	-1	-1		-1	-1	-1
+56	阿拉伯	3	"56,90"	-1	-1	-1	ui/haidaowan.png		adventure/meiguoxiazhen.png	52-59级	-1	-1	-1	-1		-1	-1	-1
+57	万里长城	3	"57,90"	-1	-1	-1	ui/haidaowan.png		adventure/meiguoxiazhen.png	59-65级	-1	-1	-1	-1		-1	-1	-1
+58	罗马帝国	3	"58,90"	-1	-1	-1	ui/kuangyexibu.png	adventure/adventure_chapters_07.png	adventure/meiguoxiazhen.png	65-71级	-1	-1	-1	-1		-1	-1	-1
+59	西游记	3	"59,90"	-1	-1	-1	ui/kuangyexibu.png		adventure/meiguoxiazhen.png	71-77级	-1	-1	-1	-1		-1	-1	-1
+60	冰河世纪	3	"60,90"	-1	-1	-1	ui/kuangyexibu.png		adventure/meiguoxiazhen.png	77-83级	-1	-1	-1	-1		-1	-1	-1
+8001	世界BOSS	0		-1	-1	-1	ui/meiguoxiaozhen.png	adventure/adventure_chapters_05.png	adventure/meiguoxiazhen.png	10-99级	-1	-1	-1	-1		-1	-1	-1
+8002	好友BOSS	0		-1	-1	-1	ui/meiguoxiaozhen.png	adventure/adventure_chapters_06.png	adventure/meiguoxiazhen.png	1-99级	-1	-1	-1	-1		-1	-1	-1

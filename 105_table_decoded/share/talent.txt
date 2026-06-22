@@ -1,0 +1,78 @@
+唯一ID	天赋名称	所属植物系列	类型	物品品质	初始值	每级提升	初始战力加成	每次升级战斗力加成	icon路径	详细描述	升级描述	分解获得精华	被动技能id	详情系数
+INT	STRING	INT	INT	INT	FLOAT	FLOAT	FLOAT	FLOAT	STRING	STRING	STRING	INT	INT	INT
+id	name	pantId	type	quality	init_value	grow_value	init_fight_value	lvlup_fight_value	icon	details	lvl_up_info	essence	passive_skill_id	details_ratio
+1	攻击力强化	0	102	1	0.01	0.006	0.35	0.21	gui/talent_detail_panel/talents/1.png	百分比提升植物攻击力	%d级 攻击力提升 %.1f%%	48		0
+2	攻击力强化	0	102	2	0.02	0.006	0.7	0.21	gui/talent_detail_panel/talents/2.png	百分比提升植物攻击力	%d级 攻击力提升 %.1f%%	60		0
+3	攻击力强化	0	102	3	0.04	0.01	1.4	0.35	gui/talent_detail_panel/talents/3.png	百分比提升植物攻击力	%d级 攻击力提升 %.1f%%	84		0
+4	攻击力强化	0	102	4	0.07	0.014	2.45	0.49	gui/talent_detail_panel/talents/4.png	百分比提升植物攻击力	%d级 攻击力提升 %.1f%%	500		0
+5	攻击力强化	0	102	5	0.1	0.02	3.5	0.7	gui/talent_detail_panel/talents/5.png	百分比提升植物攻击力	%d级 攻击力提升 %.1f%%	1000	1350	0
+6	铜墙铁壁	0	103	1	0.01	0.006	0.35	0.21	gui/talent_detail_panel/talents/6.png	百分比提升植物防御力	%d级 防御力提升 %.1f%%	48		0
+7	铜墙铁壁	0	103	2	0.02	0.006	0.7	0.21	gui/talent_detail_panel/talents/7.png	百分比提升植物防御力	%d级 防御力提升 %.1f%%	60		0
+8	铜墙铁壁	0	103	3	0.04	0.01	1.4	0.35	gui/talent_detail_panel/talents/8.png	百分比提升植物防御力	%d级 防御力提升 %.1f%%	84		0
+9	铜墙铁壁	0	103	4	0.07	0.014	2.45	0.49	gui/talent_detail_panel/talents/9.png	百分比提升植物防御力	%d级 防御力提升 %.1f%%	500		0
+10	铜墙铁壁	0	103	5	0.1	0.02	3.5	0.7	gui/talent_detail_panel/talents/10.png	百分比提升植物防御力	%d级 防御力提升 %.1f%%	1000		0
+11	生命之光	0	101	1	0.01	0.006	0.35	0.21	gui/talent_detail_panel/talents/11.png	百分比提升植物生命值	%d级 生命值提升 %.1f%%	48		0
+12	生命之光	0	101	2	0.02	0.006	0.7	0.21	gui/talent_detail_panel/talents/12.png	百分比提升植物生命值	%d级 生命值提升 %.1f%%	60		0
+13	生命之光	0	101	3	0.04	0.01	1.4	0.35	gui/talent_detail_panel/talents/13.png	百分比提升植物生命值	%d级 生命值提升 %.1f%%	84		0
+14	生命之光	0	101	4	0.07	0.014	2.45	0.49	gui/talent_detail_panel/talents/14.png	百分比提升植物生命值	%d级 生命值提升 %.1f%%	500		0
+15	生命之光	0	101	5	0.1	0.02	3.5	0.7	gui/talent_detail_panel/talents/15.png	百分比提升植物生命值	%d级 生命值提升 %.1f%%	1000		0
+16	幸运一击	0	104	1	0.01	0.006	0.35	0.21	gui/talent_detail_panel/talents/16.png	百分比提升植物暴击	%d级 暴击提升 %.1f%%	48		0
+17	幸运一击	0	104	2	0.02	0.006	0.7	0.21	gui/talent_detail_panel/talents/17.png	百分比提升植物暴击	%d级 暴击提升 %.1f%%	60		0
+18	幸运一击	0	104	3	0.04	0.01	1.4	0.35	gui/talent_detail_panel/talents/18.png	百分比提升植物暴击	%d级 暴击提升 %.1f%%	84		0
+19	幸运一击	0	104	4	0.07	0.014	2.45	0.49	gui/talent_detail_panel/talents/19.png	百分比提升植物暴击	%d级 暴击提升 %.1f%%	500		0
+20	幸运一击	0	104	5	0.1	0.02	3.5	0.7	gui/talent_detail_panel/talents/20.png	百分比提升植物暴击	%d级 暴击提升 %.1f%%	1000		0
+21	灵巧闪避	0	107	1	0.01	0.006	0.35	0.21	gui/talent_detail_panel/talents/21.png	百分比提升植物闪避率	%d级 闪避率提升 %.1f%%	48		0
+22	灵巧闪避	0	107	2	0.02	0.006	0.7	0.21	gui/talent_detail_panel/talents/22.png	百分比提升植物闪避率	%d级 闪避率提升 %.1f%%	60		0
+23	灵巧闪避	0	107	3	0.04	0.01	1.4	0.35	gui/talent_detail_panel/talents/23.png	百分比提升植物闪避率	%d级 闪避率提升 %.1f%%	84		0
+24	灵巧闪避	0	107	4	0.07	0.014	2.45	0.49	gui/talent_detail_panel/talents/24.png	百分比提升植物闪避率	%d级 闪避率提升 %.1f%%	500		0
+25	灵巧闪避	0	107	5	0.1	0.02	3.5	0.7	gui/talent_detail_panel/talents/25.png	百分比提升植物闪避率	%d级 闪避率提升 %.1f%%	1000		0
+26	快人一步	0	108	1	0.01	0.006	0.35	0.21	gui/talent_detail_panel/talents/26.png	百分比提升植物速度	%d级 速度提升 %.1f%%	48		0
+27	快人一步	0	108	2	0.02	0.006	0.7	0.21	gui/talent_detail_panel/talents/27.png	百分比提升植物速度	%d级 速度提升 %.1f%%	60		0
+28	快人一步	0	108	3	0.04	0.01	1.4	0.35	gui/talent_detail_panel/talents/28.png	百分比提升植物速度	%d级 速度提升 %.1f%%	84		0
+29	快人一步	0	108	4	0.07	0.014	2.45	0.49	gui/talent_detail_panel/talents/29.png	百分比提升植物速度	%d级 速度提升 %.1f%%	500		0
+30	快人一步	0	108	5	0.1	0.02	3.5	0.7	gui/talent_detail_panel/talents/30.png	百分比提升植物速度	%d级 速度提升 %.1f%%	1000		0
+31	稳定瞄准	0	106	1	0.01	0.006	0.35	0.21	gui/talent_detail_panel/talents/31.png	百分比提升植物命中率	%d级 命中率提升 %.1f%%	48		0
+32	稳定瞄准	0	106	2	0.02	0.006	0.7	0.21	gui/talent_detail_panel/talents/32.png	百分比提升植物命中率	%d级 命中率提升 %.1f%%	60		0
+33	稳定瞄准	0	106	3	0.04	0.01	1.4	0.35	gui/talent_detail_panel/talents/33.png	百分比提升植物命中率	%d级 命中率提升 %.1f%%	84		0
+34	稳定瞄准	0	106	4	0.07	0.014	2.45	0.49	gui/talent_detail_panel/talents/34.png	百分比提升植物命中率	%d级 命中率提升 %.1f%%	500		0
+35	稳定瞄准	0	106	5	0.1	0.02	3.5	0.7	gui/talent_detail_panel/talents/35.png	百分比提升植物命中率	%d级 命中率提升 %.1f%%	1000		0
+36	攻击额外怒气	0	113	1	0.02	0.008	0.7	0.28	gui/talent_detail_panel/talents/36.png	提升植物攻击时获得的怒气	%d级 攻击时获得怒气增加  %.1f%%	48	10000	0
+37	攻击额外怒气	0	113	2	0.04	0.006	1.4	0.21	gui/talent_detail_panel/talents/37.png	提升植物攻击时获得的怒气	%d级 攻击时获得怒气增加  %.1f%%	60	10000	0
+38	攻击额外怒气	0	113	3	0.06	0.012	2.1	0.42	gui/talent_detail_panel/talents/38.png	提升植物攻击时获得的怒气	%d级 攻击时获得怒气增加  %.1f%%	84	10000	0
+39	攻击额外怒气	0	113	4	0.1	0.014	3.5	0.49	gui/talent_detail_panel/talents/39.png	提升植物攻击时获得的怒气	%d级 攻击时获得怒气增加  %.1f%%	500	10000	0
+40	攻击额外怒气	0	113	5	0.15	0.02	5.25	0.7	gui/talent_detail_panel/talents/40.png	提升植物攻击时获得的怒气	%d级 攻击时获得怒气增加  %.1f%%	1000	10000	0
+41	战斗初始怒气	0	114	1	0.02	0.008	0.7	0.28	gui/talent_detail_panel/talents/41.png	使植物战斗开始时自带额外怒气	%d级 开始时自带 %.1f%% 怒气	48	10001	0
+42	战斗初始怒气	0	114	2	0.04	0.006	1.4	0.21	gui/talent_detail_panel/talents/42.png	使植物战斗开始时自带额外怒气	%d级 开始时自带 %.1f%% 怒气	60	10001	0
+43	战斗初始怒气	0	114	3	0.06	0.012	2.1	0.42	gui/talent_detail_panel/talents/43.png	使植物战斗开始时自带额外怒气	%d级 开始时自带 %.1f%% 怒气	84	10001	0
+44	战斗初始怒气	0	114	4	0.1	0.014	3.5	0.49	gui/talent_detail_panel/talents/44.png	使植物战斗开始时自带额外怒气	%d级 开始时自带 %.1f%% 怒气	500	10001	0
+45	战斗初始怒气	0	114	5	0.15	0.02	5.25	0.7	gui/talent_detail_panel/talents/45.png	使植物战斗开始时自带额外怒气	%d级 开始时自带 %.1f%% 怒气	1000	10001	0
+46	大招增强	0	1001	1	0.02	0.008	0.7	0.28	gui/talent_detail_panel/talents/46.png	提升手动释放的怒气技能伤害（包括治疗和护盾类技能）	%d级 怒气技能伤害提升 %.1f%% 	48	10002	0
+47	大招增强	0	1001	2	0.04	0.008	1.4	0.28	gui/talent_detail_panel/talents/47.png	提升手动释放的怒气技能伤害（包括治疗和护盾类技能）	%d级 怒气技能伤害提升 %.1f%% 	60	10002	0
+48	大招增强	0	1001	3	0.06	0.012	2.1	0.42	gui/talent_detail_panel/talents/48.png	提升手动释放的怒气技能伤害（包括治疗和护盾类技能）	%d级 怒气技能伤害提升 %.1f%% 	84	10002	0
+49	大招增强	0	1001	4	0.1	0.014	3.5	0.49	gui/talent_detail_panel/talents/49.png	提升手动释放的怒气技能伤害（包括治疗和护盾类技能）	%d级 怒气技能伤害提升 %.1f%% 	500	10002	0
+50	大招增强	0	1001	5	0.15	0.02	5.25	0.7	gui/talent_detail_panel/talents/50.png	提升手动释放的怒气技能伤害（包括治疗和护盾类技能）	%d级 怒气技能伤害提升 %.1f%% 	1000	10002	0
+51	治疗效果提升	0	1002	1	0.05	0.01	1.75	0.35	gui/talent_detail_panel/talents/51.png	提升植物被友方治疗类技能治疗时恢复的生命值	%d级 治疗效果提升 %.1f%% 	48	10005	0
+52	治疗效果提升	0	1002	2	0.08	0.014	2.8	4.9	gui/talent_detail_panel/talents/52.png	提升植物被友方治疗类技能治疗时恢复的生命值	%d级 治疗效果提升 %.1f%% 	60	10005	0
+53	治疗效果提升	0	1002	3	0.1	0.03	3.5	1.05	gui/talent_detail_panel/talents/53.png	提升植物被友方治疗类技能治疗时恢复的生命值	%d级 治疗效果提升 %.1f%% 	84	10005	0
+54	治疗效果提升	0	1002	4	0.2	0.03	7	1.05	gui/talent_detail_panel/talents/54.png	提升植物被友方治疗类技能治疗时恢复的生命值	%d级 治疗效果提升 %.1f%% 	500	10005	0
+55	治疗效果提升	0	1002	5	0.3	0.04	10.5	1.4	gui/talent_detail_panel/talents/55.png	提升植物被友方治疗类技能治疗时恢复的生命值	%d级 治疗效果提升 %.1f%% 	1000	10005	0
+56	负面效果抗性	0	1003	1	0.02	0.008	0.7	0.28	gui/talent_detail_panel/talents/56.png	提升植物对负面buff类技能的抵抗能力（中毒、失明 等）	%d级 负面效果抗性 %.1f%%	48	10008	0
+57	负面效果抗性	0	1003	2	0.04	0.008	1.4	0.28	gui/talent_detail_panel/talents/57.png	提升植物对负面buff类技能的抵抗能力（中毒、失明 等）	%d级 负面效果抗性 %.1f%%	60	10008	0
+58	负面效果抗性	0	1003	3	0.06	0.012	2.1	0.42	gui/talent_detail_panel/talents/58.png	提升植物对负面buff类技能的抵抗能力（中毒、失明 等）	%d级 负面效果抗性 %.1f%%	84	10008	0
+59	负面效果抗性	0	1003	4	0.1	0.014	3.5	0.49	gui/talent_detail_panel/talents/59.png	提升植物对负面buff类技能的抵抗能力（中毒、失明 等）	%d级 负面效果抗性 %.1f%%	500	10008	0
+60	负面效果抗性	0	1003	5	0.15	0.02	5.25	0.7	gui/talent_detail_panel/talents/60.png	提升植物对负面buff类技能的抵抗能力（中毒、失明 等）	%d级 负面效果抗性 %.1f%%	1000	10008	0
+61	普攻强化	0	1004	1	0.01	0.006	0.35	0.21	gui/talent_detail_panel/talents/1.png	百分比提升植物普通攻击时的伤害	%d级 普通攻击伤害提升 %.1f%%	48	10004	0
+62	普攻强化	0	1004	2	0.02	0.006	0.7	0.21	gui/talent_detail_panel/talents/2.png	百分比提升植物普通攻击时的伤害	%d级 普通攻击伤害提升 %.1f%%	60	10004	0
+63	普攻强化	0	1004	3	0.04	0.01	1.4	0.35	gui/talent_detail_panel/talents/3.png	百分比提升植物普通攻击时的伤害	%d级 普通攻击伤害提升 %.1f%%	84	10004	0
+64	普攻强化	0	1004	4	0.07	0.014	2.45	0.49	gui/talent_detail_panel/talents/4.png	百分比提升植物普通攻击时的伤害	%d级 普通攻击伤害提升 %.1f%%	500	10004	0
+65	普攻强化	0	1004	5	0.1	0.02	3.5	0.7	gui/talent_detail_panel/talents/5.png	百分比提升植物普通攻击时的伤害	%d级 普通攻击伤害提升 %.1f%%	1000	10004	0
+66	云爆弹	193	18	6	0.2	0.06	10	2	gui/talent_detail_panel/talents/66.png	椰子系植物的专属天赋，每次普通攻击都能造成3*3范围伤害。	%d级 范围内其他目标受到主目标的   %.1f%% 伤害。	2000		0
+67	核能灯塔	1386	18	6	6	1	10	2	gui/talent_detail_panel/talents/67.png	路灯系植物的专属天赋，延长生命之光和勇气之光的持续时间。	%d级 技能效果延长至 %.0f 回合。	2000	10009	1
+68	涡轮扇叶	1229	18	6	0.35	0.1	10	2	gui/talent_detail_panel/talents/68.png	幸运草系植物的专属天赋，每回合有一定几率额外普攻一次。	%d级 %.1f%% 几率每回合额外普通攻击1次。	2000	10003	0
+69	双子爆弹	1410	18	6	0.35	0.1	10	2	gui/talent_detail_panel/talents/69.png	火焰系植物的专属天赋，每回合有一定几率额外普攻一次。	%d级 %.1f%% 几率每回合额外普通攻击1次。	2000	10003	0
+70	双声道	1398	18	6	0.35	0.1	10	2	gui/talent_detail_panel/talents/70.png	音乐系植物的专属天赋，每回合有一定几率额外普攻一次。	%d级 %.1f%% 几率每回合额外普通攻击1次。	2000	10003	0
+71	收集癖	1253	18	6	0.1	0.03	10	2	gui/talent_detail_panel/talents/71.png	尾草系植物的专属天赋，友方植物释放大招时，自身获得额外怒气。	%d级 任一友方植物释放大招时获得自身 %.1f%% 怒气。	2000	10006	0
+72	剧烈燃烧	1181	18	6	0.2	0.1	10	2	gui/talent_detail_panel/talents/72.png	树桩系植物的专属天赋，每个鬼火被消耗时，有一定概率回复一个。	%d级 %.1f%% 概率回复一个鬼火。	2000	10007	0
+73	尖刺牢笼	1422	18	6	0.5	0.1	10	2	gui/talent_detail_panel/talents/73.png	魔术系植物的专属天赋，禁锢效果每回合会对目标造成自身攻击力百分比伤害。	%d级 每回合造成自身攻击力 %.1f%% 伤害。	2000	10010	0
+74	聚焦透镜	1350	18	6	0.2	0.06	10	2	gui/talent_detail_panel/talents/74.png	能量豆系植物的专属天赋，每次普攻和大招时无视目标一定防御。	%d级 无视敌方 %.1f%% 防御力。	2000	10011	0
+75	粒子爆炸	1374	18	6	0.25	0.05	10	2	gui/talent_detail_panel/talents/75.png	柚子系植物的专属天赋，收到大招伤害的每个敌人有一定概率眩晕2回合	%d级 眩晕概率 %.1f%% 	2000	10012	0

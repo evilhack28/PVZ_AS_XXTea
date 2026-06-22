@@ -1,0 +1,33 @@
+废	废	废	废	废	废	废	废
+INT	STRING	INT	STRING	STRING	STRING	INT	INT
+id	name	type	description	attributes	pic	swallowexp	pricetype
+1	万能碎片	1	可以替代卡牌碎片进行合成，最多能替代一半的碎片		plants/plants_piece000000.png	0	0
+1001	铁网门碎片	2	需要30个碎片，合成铁网门技能	"{""target"":1013,""silver"":0,""num"":30}"	skill/teamskill1_patch.png	0	0
+1002	火球碎片	2	需要30个碎片，合成火球技能	"{""target"":1007,""silver"":0,""num"":30}"	skill/teamskill2_patch.png	0	0
+1003	小僵尸碎片	2	需要30个碎片，合成小僵尸技能	"{""target"":1001,""silver"":0,""num"":30}"	skill/teamskill3_patch.png	0	0
+1004	生命之花碎片	2	需要30个碎片，合成生命之花技能	"{""target"":1019,""silver"":0,""num"":30}"	skill/skill000001_patch.png	0	0
+2001	金钥匙	10	打开金宝箱		scene/goldkey.png		601
+2002	金宝箱	3	冒险、寻宝、无尽可获得	"{""target"":2001,""num"":1,""drop"":""0-3000,1,1,1,0|3000-5000,5,4000,30000,0|5000-10000,4,3000,10,0""}"	scene/goldbox.png		605
+2003	银钥匙	10	打开银宝箱		scene/silverkey.png		602
+2004	银宝箱	3	冒险、寻宝、无尽可获得	"{""target"":2003,""num"":1,""drop"":""0-3000,1,2,1,0|3000-5000,5,4000,20000,0|5000-10000,4,3000,10,0""}"	scene/silverbox.png		605
+2005	铜钥匙	10	打开铜宝箱		scene/copperkey.png		603
+2006	铜宝箱	3	冒险、寻宝、无尽可获得	"{""target"":2005,""num"":1,""drop"":""0-3000,1,4,1,0|3000-5000,5,4000,10000,0|5000-10000,4,3000,10,0""}"	scene/copperbox.png		607
+2007	木钥匙	10	打开木宝箱		scene/woodkey.png		604
+2008	木宝箱	3	冒险、寻宝、无尽可获得	"{""target"":2007,""num"":1,""drop"":""0-3000,1,5,1,0|3000-5000,5,4000,5000,0|5000-10000,4,3000,10,0""}"	scene/woodbox.png		608
+2500	阳光菇种子	6	可种植出阳光菇	150	scene/sunmashroom_seed.png		0
+2501	向日葵种子	6	可种植出向日葵	300	scene/sunflower_seed.png		0
+2502	双胞向日葵种子	6	可种植出双胞向日葵	500	scene/double_sunflower_seed.png		0
+2503	肥料	7	用于培养卡牌技能升级	100	scene/manure.png		0
+2504	培养液	8	用于培养昆虫		res/drawable/nutrient.png		0
+2505	瓢虫徽章	9	用于兑换瓢虫		res/drawable/ladybug_badge.png		0
+2506	蜜蜂徽章	9	用于兑换蜜蜂		res/drawable/bee_badge.png		0
+3000	钻石	4	钻石		scene/diamond.png		0
+4000	金币	5	金币		scene/gold.png		0
+5001	坚果碎片	0	需要30个坚果碎片，合成坚果卡牌	"{""target"":6,""silver"":0,""num"":30}"	plantsicon/1_0000s_0040_45_pice.png	0	0
+5002	向日葵碎片	0	需要30个向日葵碎片，合成向日葵卡牌	"{""target"":17,""silver"":0,""num"":30}"	plantsicon/1_0000s_0046_plant_sunflower_pice.png	0	0
+5003	豌豆射手碎片	0	需要35个豌豆射手碎片，合成豌豆射手卡牌	"{""target"":23,""silver"":0,""num"":35}"	plantsicon/1_0000s_0023_28_pice.png	0	0
+5004	大嘴花碎片	0	需要55个大嘴花碎片，合成大嘴花卡牌	"{""target"":29,""silver"":0,""num"":55}"	plantsicon/1_0000s_0008_13_pice.png	0	0
+5005	西瓜射手碎片	0	需要40个西瓜射手碎片，合成西瓜射手卡牌	"{""target"":31,""silver"":0,""num"":40}"	plantsicon/1_0000s_0021_26_pice.png	0	0
+5006	磁力菇碎片	0	需要35个磁力菇碎片，合成磁力菇卡牌	"{""target"":33,""silver"":0,""num"":35}"	plantsicon/1_0000s_0043_plant_magnet-shroom_pice.png	0	0
+5007	金盏花碎片	0	需要5个金盏花碎片，合成金盏花卡牌	"{""target"":5001,""silver"":0,""num"":5}"	plantsicon/1_0000s_0020_25_pice.png		0
+5008	睡莲碎片	0	需要5个睡莲碎片，合成睡莲卡牌	"{""target"":5002,""silver"":0,""num"":5}"	plantsicon/1_0000s_0019_24_pice.png		0

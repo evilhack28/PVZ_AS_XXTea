@@ -1,0 +1,7 @@
+等级	升级数	充值id
+INT	INT	INT
+id	levelUpNum	rechangeId
+1	1	40
+2	2	41
+3	5	42
+4	10	43

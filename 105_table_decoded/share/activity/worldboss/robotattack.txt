@@ -1,0 +1,6 @@
+多少分钟	多少分钟	每个多少秒	减少BOSS血量百分比
+INT	INT	INT	INT
+minTimeRange	maxTimeRange	secend	reduceHp
+0	10	30	1
+10	15	30	2
+15	19	30	3

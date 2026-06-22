@@ -1,0 +1,7 @@
+废	废	废	废	废	废	废	废	废	废	废	废	废	废	废	废	废
+INT	FLOAT	FLOAT	FLOAT	FLOAT	FLOAT	FLOAT	FLOAT	FLOAT	FLOAT	FLOAT	FLOAT	FLOAT	FLOAT	FLOAT	FLOAT	FLOAT
+id	time_1	speedx_1	speedy_1	rspeed_1	time_2	speedx_2	speedy_2	rspeed_2	time_3	speedx_3	speedy_3	rspeed_3	time_4	speedx_4	speedy_4	rspeed_4
+1	0.2	300	200	-180	0.3	0	-400	-190	0.1	50	60	-90	0.1	50	-60	0
+2	0.2	300	200	-180	0.3	0	-400	-190	0.1	50	60	-90	0.1	50	-60	0
+3	0.2	300	200	-180	0.3	0	-400	-190	0.1	50	60	-90	0.1	50	-60	0
+4	0.2	300	200	-180	0.3	0	-400	-190	0.1	50	60	-90	0.1	50	-60	0

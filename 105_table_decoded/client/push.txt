@@ -1,0 +1,8 @@
+id	程序用KEY	推送文字	推送时间	推送声音
+INT	STRING	STRING	STRING	STRING
+id	name	content	time	sound
+1	dave_lunch	嘿，伙计！不想来一块汉堡恢复体力吗？	12:1;18:1	
+2	rest_over	植物们已经休息好，可以痛击僵尸了！	-1	
+3	dave_shop	戴夫小卖部进了一批新货，快来看看吧！	9:01;21:01	
+4	skill_recover	技能点数已经回满，快让植物变的更强吧~	-1	
+5	world_boss	邪恶的僵尸博士还有三分钟就要来了，快带领植物们保卫家园吧！	-1	
