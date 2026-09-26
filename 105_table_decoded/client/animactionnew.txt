@@ -1,7 +1,0 @@
-废	废	废
-INT	INT	STRING
-id	actionid	flash/actionname
-1	52301	flash/level_node
-2	52401	flash/level_node_gargantuar
-3	40501	flash/map_path
-4	40502	flash/map_path

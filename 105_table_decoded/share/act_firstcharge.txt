@@ -1,6 +1,0 @@
-id	类型	物品id	物品数量
-INT	INT	INT	INT
-id	type	itemId	num
-1	0	1229	1
-2	16	10030	1
-3	16	91	188

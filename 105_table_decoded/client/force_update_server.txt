@@ -1,4 +1,0 @@
-渠道ID	ServerID	下载地址
-INT	INT	STRING
-chanelId	serverID	updateUrl
-143	2014300050	http://ci.thinkygame.com/browse/PVZAS-ANDROID19-8/artifact/shared/apk/pvzas-release-1.0.65-7f822a78.apk

@@ -1,7 +1,0 @@
-2			
-INT	INT	INT	INT
-cardquarty	cardid	chance	cardlevel
-2	1	2500	1
-2	37	2500	1
-2	49	2500	1
-2	109	2500	1

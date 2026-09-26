@@ -1,4 +1,0 @@
-最大免费友情(金币)抽卡次数	最大免费钻石抽卡次数	友情(金币)抽卡重置时间/分	钻石抽卡重置时间/分	免费友情(金币)抽卡cd时间	免费钻石抽卡cd时间
-INT	INT	INT	INT	INT	INT
-maxFriendCount	maxGoldCount	friendTimeDiff	goldTimeDiff	freeFriendTimeDiff	freeGoldTimeDiff
-3	1	1440	2880	10	2880

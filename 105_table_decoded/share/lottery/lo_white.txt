@@ -1,4 +1,0 @@
-2			
-INT	INT	INT	INT
-cardquarty	cardid	chance	cardlevel
-0	0	0	0

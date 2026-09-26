@@ -1,6 +1,0 @@
-难度分组	等级下限	等级上限	难度说明
-INT	INT	INT	STRING
-groupid	minlevel	maxlevel	desc
-1	20	39	低
-2	40	59	中
-3	60	100	高

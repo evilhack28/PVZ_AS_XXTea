@@ -1,9 +1,0 @@
-唯一ID	形态ID	类别ID	新老植物判断（0=老植物，1=新植物）	卡牌ID
-INT	INT	INT	INT	INT
-id	xt_id	parent_id	old_new	card_id
-1	0	61	1	1061
-2	0	97	1	1097
-3	0	109	1	1109
-4	0	217	1	1217
-5	0	302	1	1302
-6	0	1277	1	1277

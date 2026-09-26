@@ -1,7 +1,0 @@
-id	类型	物品id	物品数量	植物形态
-INT	INT	INT	INT	INT
-id	type	itemId	num	xt
-1	0	229	1	0
-2	1	24007	1	0
-3	1	90	30000	0
-4	1	94	30000	0

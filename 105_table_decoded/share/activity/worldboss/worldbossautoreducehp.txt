@@ -1,6 +1,0 @@
-最小分钟	最大分钟	自动扣血百分比
-INT	INT	INT
-lowmin	maxmin	reducehp
-0	10	1
-10	15	2
-15	19	3

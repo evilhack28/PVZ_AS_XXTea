@@ -1,5 +1,0 @@
-唯一ID	名称	部件	填0	填0
-INT	STRING	STRING	INT	INT
-id	name(不导出)	part_name	hideStatus	hideStage
-1	坚果	_wallnut_armor_states	0	0
-2	高坚果	_tallnut_plantfood_armor	0	0

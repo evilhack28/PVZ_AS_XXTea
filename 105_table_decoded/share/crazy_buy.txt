@@ -1,4 +1,0 @@
-唯一	累计充值	卡牌ID	植物名字图片	植物形态图片	植物描述	植物技能描述
-INT	INT	INT	STRING	STRING	STRING	STRING
-id	money	cardId	nameImage	plantImage	dec	skillDec
-1	6	1025	cb_mwc.png	cb_group1.png	能力：高防！吸血！	特技：对目标造成伤害并吸取生命！

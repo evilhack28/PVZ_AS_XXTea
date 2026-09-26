@@ -1,6 +1,0 @@
-废	废	废	废	废	废	废	废
-INT	INT	STRING	INT	STRING	INT	INT	STRING
-id	level	tips	guide	btnName	btnDir	btnIndex	touchBtnName
-2	14	恭喜！您已解锁挑战功能！	-1	tiaozhan_panel	3	3	tiaozhan
-3	10	恭喜！您已解锁小卖部！	-1	shop_panel	3	5	shop
-4	10	恭喜！您已解锁排行榜！	-1	paihang_panel	2	2	paihang

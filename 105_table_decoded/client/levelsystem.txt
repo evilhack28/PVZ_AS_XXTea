@@ -1,7 +1,0 @@
-唯一ID	升级显示图标	缩放	显示提示图片	说明
-INT	STRING	FLOAT	STRING	STRING
-id	systempic	picscal	namePic	info
-11	jiesuan_jingjichang.png	1	jiesuan_jingjichang_zi.png	竞技
-14	jinzhanhua.png	0.5	jiesuan_jinzhanhua_zi.png	金盏花
-14	jiesuan_damudi.png	1	jiesuan_damudi_zi.png	大墓地
-9	jiesuan_meirirenwu.png	1	jiesuan_meirirenwu_zi.png	每日任务

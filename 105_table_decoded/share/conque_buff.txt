@@ -1,9 +1,0 @@
-唯一id	buff名称	每次提升的消耗量	每次提升量（%）	当前buff量（默认1）	buff图片Url
-INT	STRING	STRING	INT	FLOAT	STRING
-id	buff_name	upgrade_cost	upgrade_rate	current_buff_rate	img_url
-1	攻击力	-1	10	0	/gui/conquer_panel/attack.png
-2	防御力	-1	10	0	/gui/conquer_panel/defence.png
-3	生命值	-1	10	0	/gui/conquer_panel/add_green.png
-4	暴击率	-1	10	0	/gui/conquer_panel/crtical_attack_level.png
-5	闪避率	-1	10	0	/gui/conquer_panel/dodge_level.png
-6	命中率	-1	10	0	/gui/conquer_panel/hit_level.png

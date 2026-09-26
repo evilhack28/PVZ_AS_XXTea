@@ -1,4 +1,0 @@
-bossId	占格1	占格2	占格3	占格4	占格5	占格6	占格7	占格8	占格9	碰撞X	碰撞Y
-INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	FLOAT	FLOAT
-bossId	grid11	grid12	grid13	grid21	grid22	grid23	grid31	grid32	grid33	collideWidth	collideHeight
-1	1	1	1	1	1	1	1	1	1	330	420

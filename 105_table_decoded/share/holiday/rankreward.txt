@@ -1,9 +1,0 @@
-ID	范围	范围	奖励类型1	奖励物品id1	奖励物品数量1	奖励类型2	奖励物品id2	奖励物品数量2	奖励类型3	奖励物品id3	奖励物品数量3	奖励类型4	奖励物品id4	奖励物品数量4
-INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT
-id	minRange	maxRange	type1	itemid1	num1	type2	itemid2	num2	type3	itemid3	num3	type4	itemid4	num4
-1	1	1	1	106	1	1	97	10	1	90	300000	1	94	50000
-2	2	3	0	49	1	1	97	5	1	90	200000	1	94	40000
-3	4	10	1	45049	5	1	97	2	1	90	150000	1	94	30000
-4	11	50	1	45049	2	1	90	100000	1	94	20000			
-5	51	100	1	90	50000	1	94	10000						
-6	101	500	1	90	20000	1	94	5000						
